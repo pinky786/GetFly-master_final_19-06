@@ -1,0 +1,22 @@
+.dbcontent{
+     border-style:solid;
+}
+
+.form-field {
+     margin-bottom: 20px;
+   }
+   
+   .form-field label {
+     display: block;
+    
+     margin-bottom: 5px;
+   }
+   
+   .form-field input[type="number"],
+   .form-field input[type="text"],
+   .form-field input[type="date"] {
+     width: 40%;
+     height: auto;
+     padding: 10px;
+     font-size: 16px;
+   }
